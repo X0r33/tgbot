@@ -1,9 +1,9 @@
 # config.py
 
-BOT_TOKEN = "8655986496:AAEO9L4xviD8Uv5S80IDOhadW6f5j7s2xek"  # Заміни!
+BOT_TOKEN = ""  # Заміни!
 
 CHANNEL_ID = "@x0re3"
-ADMIN_IDS  = [5950905655]  # Заміни на свій Telegram ID
+ADMIN_IDS  = []  # Заміни на свій Telegram ID
 
 MAX_FILE_SIZE       = 50 * 1024 * 1024
 ANTISPAM_MAX_ACTIONS = 5
