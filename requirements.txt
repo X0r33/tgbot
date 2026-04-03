@@ -1,0 +1,6 @@
+aiogram
+aiohttp
+aiosqlite
+Babel
+magic-filter
+python-dotenv
